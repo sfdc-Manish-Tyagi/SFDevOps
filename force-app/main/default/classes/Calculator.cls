@@ -11,4 +11,7 @@ public with sharing class Calculator {
     public integer mul(integer a, Integer b){
         return a*b;
     }
+    public integer div(integer a, Integer b){
+        return a/b;
+    }
 }
